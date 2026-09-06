@@ -1,5 +1,3 @@
-# exploring-nyc-public-school-test-results
-Using data manipulation and summary statistics to analyze test scores across New York City's public schools!
 # Exploring NYC Public School Test Result Scores
 
 This project analyzes SAT performance across New York City public schools using math, reading, and writing test scores.
